@@ -1,3 +1,4 @@
-print("sarah is typing :3")
+a = 5
+print("sarah is typing :3 ... AYA is typing too :) ")
 i = 0
-print(i)
+print(a + i)
